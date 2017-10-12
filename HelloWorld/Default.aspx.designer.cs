@@ -12,5 +12,17 @@ namespace HelloWorld {
 	
 	
 	public partial class Default {
+		
+		protected System.Web.UI.HtmlControls.HtmlInputText HTMLTextField;
+		
+		protected System.Web.UI.HtmlControls.HtmlGenericControl HTMLHelloLabel;
+		
+		protected System.Web.UI.HtmlControls.HtmlButton HTMLButton;
+		
+		protected System.Web.UI.WebControls.TextBox NETTextField;
+		
+		protected System.Web.UI.HtmlControls.HtmlGenericControl NETHelloLabel;
+		
+		protected System.Web.UI.WebControls.Button NETButton;
 	}
 }
